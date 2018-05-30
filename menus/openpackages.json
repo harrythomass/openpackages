@@ -4,11 +4,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "open-package",
+          "label": "openpackages",
           "submenu": [
             {
-              "label": "Open Package",
-              "command": "open-package:toggle"
+              "label": "openpackages",
+              "command": "openpackages:toggle"
             }
           ]
         }
